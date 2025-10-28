@@ -21,7 +21,7 @@ pipeline {
             steps {
                 script {
                     echo "✅ Form Validation HTML ready!"
-                    echo "<a href='file:///C:/ProgramData/Jenkins/.jenkins/workspace/${env.JOB_NAME}/form-validation.html' target='_blank'>Open Form Validation</a>"
+                    echo "<a href='https:/github.com/Aishu-59/jenform.git</a>"
                 }
             }
         }
